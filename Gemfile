@@ -64,4 +64,4 @@ end
 
 gem "vite_rails"
 
-gem "will_paginate", "~> 3.3"
+gem "will_paginate", "~> 4.0"
