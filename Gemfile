@@ -61,3 +61,7 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem "vite_rails"
+
+gem 'will_paginate', '~> 3.3'
