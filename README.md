@@ -39,7 +39,6 @@ Ensure you have the following installed:
    ```
    *For migrations, use:*
    ```sh
-   rails db:create 
    rails db:migrate
    ```
 
