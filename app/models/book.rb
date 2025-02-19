@@ -3,7 +3,6 @@ class Book < ApplicationRecord
 
     validates :title, presence: true
     validates :author, presence: false
-    validates :isbn, presence: false 
+    validates :isbn, presence: false
     validates :status, presence: true
-
 end
